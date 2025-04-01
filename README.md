@@ -14,6 +14,10 @@ The invisible bonds that connect us to those we love remain one of life's most p
 
 This companion piece examines the aftermath of a romantic relationship between two women, aiming to bridge understanding through music. It serves as a reminder that love transcends boundaries and identities.
 
+Girl, you got my fire, burning from last year You got my rhythm and push it to the sky Till you played up on me, you could see me cry This boy you're hiding, got me broken down Woah, woah, woah, woah Woah, woah, woah, woah
+
+My sorrow's over I give you back your lies Give me back my soul I give you back your lies Give me back my soul My sorrow's over
+
 ## Message
 
 These songs seek to reach listeners who have experienced loss or struggled with acceptance. Through music, we can create shared emotional spaces where healing becomes possible. Love, in all its forms, deserves recognition and celebration.
