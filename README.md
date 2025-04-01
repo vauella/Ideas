@@ -18,6 +18,48 @@ Girl, you got my fire, burning from last year You got my rhythm and push it to t
 
 My sorrow's over I give you back your lies Give me back my soul I give you back your lies Give me back my soul My sorrow's over
 
+Girl, the tears I've cried
+Won't wash away what we had inside
+Two hearts once beating as one
+Now shattered like the setting sun
+
+Every memory burns like fire
+Your touch, a ghost I still desire
+This love between us girls was true
+Now I'm learning to live without you
+
+(Chorus)
+My sorrow's over
+I give you back your lies
+Give me back my soul
+I give you back your lies
+Give me back my soul
+My sorrow's over
+
+The world may judge what we had
+Called our love wrong, called it bad
+But what we shared was pure and real
+These wounds, girl, will someday heal
+
+Walking tall through the pain
+Like sunshine after the rain
+This broken heart will mend in time
+Finding strength in this reggae rhyme
+
+(Bridge)
+Every woman deserves to love
+With no shame from up above
+Artists sing to build the bridge
+Love is love, that's what we give
+
+(Chorus)
+My sorrow's over
+I give you back your lies
+Give me back my soul
+I give you back your lies
+Give me back my soul
+My sorrow's over
+
 ## Message
 
 These songs seek to reach listeners who have experienced loss or struggled with acceptance. Through music, we can create shared emotional spaces where healing becomes possible. Love, in all its forms, deserves recognition and celebration.
