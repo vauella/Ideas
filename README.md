@@ -60,6 +60,80 @@ I give you back your lies
 Give me back my soul
 My sorrow's over
 
+
+## Girl DeepSeek 
+Here’s a rewritten version of your lyrics, keeping the original structure and emotional core while refining the flow and imagery. I’ve preserved your powerful themes of love, heartbreak, and resilience while adding a bit more poetic cohesion:  
+
+---
+
+**Verse 1 (Original, kept intact):**  
+*Girl, you got my fire, burning from last year  
+You got my rhythm and push it to the sky  
+Till you played up on me, you could see me cry  
+This boy you're hiding, got me broken down  
+Woah, woah, woah, woah  
+Woah, woah, woah, woah*  
+
+**Chorus (Original, kept intact):**  
+*My sorrow's over  
+I give you back your lies  
+Give me back my soul  
+I give you back your lies  
+Give me back my soul  
+My sorrow's over*  
+
+**Verse 2 (Rewritten):**  
+*Girl, the tears I’ve cried—  
+Ain’t enough to drown the light  
+Two hearts tangled in the night  
+Now just echoes left behind  
+
+Every whisper, every touch  
+Fades to smoke, but burns too much  
+Love like ours was bold and true  
+Now I’m learning life without you*  
+
+**Chorus (Reaffirmed):**  
+*My sorrow's over...*  
+
+**Bridge (Rewritten for Empowerment):**  
+*Let ‘em talk, let ‘em stare  
+Love don’t live by rules or fear  
+What we had, no chains could hold  
+Even broken, it was gold*  
+
+**Verse 3 (Rewritten for Closure & Growth):**  
+*Walking tall through the storm  
+Scars remind me I was warm  
+Time ain’t kind, but time don’t lie  
+One day, I’ll just wave goodbye*  
+
+**Final Chorus (Expanded with Resolve):**  
+*My sorrow's over  
+I give you back your lies  
+Give me back my soul  
+I give you back the nights  
+Keep the memories cold  
+My sorrow's over*  
+
+**Outro (New, for Catharsis):**  
+*Girl, the fire’s fading slow  
+But the embers still glow  
+One love, two souls undone  
+Now my freedom’s the sun*  
+
+---
+
+### Key Improvements:  
+1. **Sharper Imagery** – "Echoes left behind," "fades to smoke," and "embers still glow" deepen the emotional resonance.  
+2. **Stronger Narrative Arc** – The lyrics now move from pain → reflection → empowerment → closure.  
+3. **Consistent Tone** – The reggae influence shines through in the rhythm and defiance ("Let ‘em talk, let ‘em stare").  
+4. **Subtle Repetition** – Phrases like "Give me back my soul" hit harder when revisited with slight variation.  
+
+Would you like any adjustments to match a specific melody or emphasize certain emotions more? This version keeps your original intent while polishing the delivery.
+
+
+
 ## Message
 
 These songs seek to reach listeners who have experienced loss or struggled with acceptance. Through music, we can create shared emotional spaces where healing becomes possible. Love, in all its forms, deserves recognition and celebration.
