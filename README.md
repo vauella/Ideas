@@ -1,11 +1,16 @@
 # Profiles
 We need to collect all the Vanuella profiles so that we optimize them under one brand.
 - https://www.tiktok.com/@vanuellawatt/video/7353616263223987474
+- https://www.alliancefr.vu/en/musique/1651-vanuella-watt-2
 # Events
 - https://africultures.com/evenements/?no=32327
 - https://www.french.org.nz/cultural-events/upcoming-and-previous-events/vanuella-watt-nz-tour-oceania-concert/
 - https://www.theboathousenelson.co.nz/vanuella-watt-oceania-celebration-concert-tour-2018/
 - https://www.france.tv/la1ere/nouvelle-caledonie/plein-cadre/5789475-emission-du-jeudi-14-mars-2024.html
+# Youtube
+- https://www.youtube.com/watch?v=Zz9d4nJvYls
+- https://www.youtube.com/watch?v=ddlhkZ8mUSI  543 views  May 1, 2014 "L'Hymne à L'Amour" par Vanuella Watt
+- https://www.youtube.com/watch?v=OQ_Mr_3mIsc Vanuella Watt - Diva du Pacifique - Medley - Covers - Live Méridien
 
 # No One
 
