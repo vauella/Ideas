@@ -1,0 +1,232 @@
+---
+title: "Rien à Perdre"
+author: "Miezucu"
+date: "2025-04-15"
+lang: fr
+language:
+  en:
+    title-block-published: "Nothing to Lose"
+  fr:
+    title-block-published: "Rien à Perdre"
+categories: [music, poetry, alternative-rock, miezucu]
+image: images/rien_a_perdre.png
+format:
+  html:
+    toc: false
+    code-fold: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+::: {.callout-note icon="false"}
+## **Featured Audio** ▶️
+
+```{r}
+#| echo: false
+#| out-width: "100%"
+
+library(htmltools)
+tags$div(
+  style = "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;",
+  tags$iframe(
+    style = "position: absolute; top: 0; left: 0; width: 100%; height: 100%;",
+    src = "https://www.youtube.com/embed/alt-rock-example",
+    frameborder = "0",
+    allowfullscreen = NA
+  )
+)
+```
+:::
+
+## **Links** 📝
+
+::: {.panel-tabset .nav-pills}
+
+### Quick Info 🎵
+
+-   **Title:** Rien à Perdre  
+-   **Artist:** Miezucu ft. Ghost of Cobain  
+-   **Genre:** Alternative Rock Poetry  
+-   **Language:** French (English version available)  
+-   **Duration:** 3:22  
+
+### Stream Now 🎧
+
+```{r}
+#| echo: false
+tags$div(
+      class = "streaming-buttons",
+      style = "display: flex; gap: 10px; flex-wrap: wrap;",
+      tags$a(href = "https://example.com", target = "_blank",
+             class = "btn btn-success btn-sm", "Spotify"),
+      tags$a(href = "https://example.com", target = "_blank",
+             class = "btn btn-danger btn-sm", "Apple Music"),
+      tags$a(href = "https://suno.com/song/alt-rock-example", target = "_blank",
+             class = "btn btn-info btn-sm", "Suno"),
+      tags$a(href = "https://example.com", target = "_blank",
+             class = "btn btn-dark btn-sm", "YouTube Music")
+    )
+```
+
+:::
+
+## **Time’s Arrogant Lover** 🕰️⚡
+
+This existential rock ballad merges the brooding energy of *Smells Like Teen Spirit* with Baudelairean romanticism. The lyrics oscillate between godlike posturing (*"Je suis le dieu du temps"*) and vulnerable confession (*"Ah ce mâhnit sunt când nu știu de tine"*), mirroring Radiohead’s *Creep* dynamic. The recurring streetlight/candle imagery creates a Lynchian atmosphere of nocturnal suspense.
+
+::: columns
+### 🔥 **Lyrical Highlights**
+
+------------------------------------------------------------------------
+
+| **Original** | **Translation** | **Rock Analysis** |
+|-----------------|-----------------|---------------------------------------|
+| *Je suis le dieu du temps, toi sirène dans mes vagues*<br>*Rien ne calme plus que le sommeil d'une nuit jeune* | *I am the god of time, you siren in my waves*<br>*Nothing soothes more than the sleep of a youthful night* | \- **Nirvana Vibe:** Cobain-esque contradiction of power/fragility<br>- **Symbolism:** Time vs ephemeral love as in *Time After Time* covers |
+| *Zombie hurle, mais ton silence est plus lourd*<br>*Un Wonderwall de questions* | *Zombie screams, but your silence weighs heavier*<br>*A Wonderwall of questions* | \- **Oasis/Radiohead Mashup:** Brit-rock melancholy meets abstract angst<br>- **Intertextuality:** Direct nod to 90s alt-rock anthems |
+| *Je compte les étoiles comme les Black de Pearl Jam*<br>*Chacune une promesse que tu brises en riant* | *I count stars like Pearl Jam’s Black*<br>*Each a promise you shatter laughing* | \- **Grunge Poetry:** Vedder-like visceral imagery<br>- **Themes:** Romantic disillusionment à la *Black* |
+| *Arrogance souveraine... mais l'amour la réduit en cendres* | *Smug arrogance... but love reduces it to ash* | \- **Kurt Cobain Paradox:** Swagger collapsing into vulnerability<br>- **Motif:** Fire imagery echoing *Burn Baby Burn* |
+
+:::
+
+## **Full Lyrics** 📝
+
+::: {.panel-tabset .nav-pills}
+### French Original
+
+```{r}
+#| echo: false
+#| results: 'asis'
+lyrics_fr <- c(
+  "*(Couplet 1)*  
+Je me retire dans les vers, les réverbères s’allument.  
+L’odeur de cire inonde la chambre — il doit être minuit.  
+Le matin vient et repart, même ton 'déjeuner sucré' ne me trouble plus.  
+Je m’enferme, aidant des 'experts' en ligne… que de vent.  
+
+*(Pré-refrain)*  
+Ah, cette tristesse quand tu disparais — une chaîne traînée dans l’ombre.  
+'Oui, oui, tout va bien', mais pourquoi compter les heures, les pas sur la carte ?  
+
+*(Refrain)*  
+Je suis le dieu du temps, toi la sirène dans mes vagues.  
+Rien ne calme plus que le sommeil d’une nuit jeune.  
+Arrogance souveraine… mais l’amour la réduit en cendres.  
+J’attends ton signe, ton souffle — *rien à perdre, tout à attendre.*  
+
+*(Couplet 2)*  
+Les bougies fondent, internet ment.  
+Je trace des lignes entre *Smells Like Teen Spirit* et l’odeur de tes cierges.  
+*Zombie* hurle, mais ton silence est plus lourd.  
+Un *Wonderwall* de questions : qu’est-ce qui te touche, te déplace ?  
+
+*(Pont)*  
+*Under the Bridge* de ma solitude,  
+Je compte les étoiles comme les *Black* de Pearl Jam —  
+Chacune une promesse que tu brises en riant.  
+
+*(Refrain x2)*  
+J’attends ton signe, ton souffle — *rien à perdre, tout à attendre.*  
+
+*(Outro murmuré)*  
+La nuit est calme. Peut-être demain…  
+Ou jamais."
+)
+
+cat(paste(lyrics_fr))
+```
+
+### English Translation
+
+```{r}
+#| echo: false
+#| results: 'asis'
+lyrics_en <- c(
+  "*(Verse 1)*  
+I retreat into verses, streetlights flicker on.  
+The scent of wax floods the room — it must be midnight.  
+Morning comes and goes, even your 'sweet breakfast' no longer tempts me.  
+I lock myself in, helping online 'experts'… all hot air.  
+
+*(Pre-Chorus)*  
+Ah, this sorrow when you vanish — a chain dragged in shadows.  
+'Yes, yes, all’s well,' but why count hours, steps on the map?  
+
+*(Chorus)*  
+I am the god of time, you the siren in my waves.  
+Nothing soothes more than the sleep of a youthful night.  
+Smug arrogance… but love reduces it to ash.  
+I await your signal, your breath — *nothing to lose, everything to await.*  
+
+*(Verse 2)*  
+Candles melt, the internet lies.  
+I draw lines between *Smells Like Teen Spirit* and your candle’s scent.  
+*Zombie* screams, but your silence weighs heavier.  
+A *Wonderwall* of questions: what moves you, touches you?  
+
+*(Bridge)*  
+*Under the Bridge* of my solitude,  
+I count stars like Pearl Jam’s *Black* —  
+Each a promise you shatter with laughter.  
+
+*(Chorus x2)*  
+I await your signal, your breath — *nothing to lose, everything to await.*  
+
+*(Whispered Outro)*  
+The night is quiet. Maybe tomorrow…  
+Or never."
+)
+
+cat(paste(lyrics_en))
+```
+:::
+
+## **Why It Resonates** ❤️🩹
+
+::: {.callout-tip icon="false"}
+### **Hypothetical Fan Reactions**
+
+> "That bridge where he counts stars like Pearl Jam lyrics? I felt that in my 90s-kid soul." - @GrungeGhost
+
+> "The arrogance-to-ash line is the perfect alt-rock thesis - more profound than *I’m a Creep*." - @RadioheadPhD
+
+> "Ce mélange de poésie française et de références rock américaines? Génie transatlantique!" - @ParisSeattle
+
+> "Finally someone who understands that waiting IS a rock attitude - this is *November Rain* meets Sartre." - @ExistentialMosh
+:::
+
+## **Behind the Noise** 🔊
+
+```{r}
+#| echo: false
+#| layout-ncol: 2
+
+credits <- data.frame(
+  Element = c("Structure", "Intertextuality", "Themes", "Sonic Palette"),
+  Description = c("Verse-chorus with grunge-style bridge breakdown", 
+                  "Nirvana/Oasis/Pearl Jam references as emotional anchors",
+                  "Time as both weapon and wound, love as humility",
+                  "Distorted guitars under spoken-word vocals à la *Praise You*")
+)
+
+knitr::kable(credits, col.names = c("Component", "Rock DNA"), format = "html") |>
+  kableExtra::kable_styling(full_width = FALSE)
+```
+
+## **Musical Notes** 🎸
+
+While the full score remains imaginary, the lyrics demand:
+
+- **Verse Instrumentation:** Muffled drums recalling *Come As You Are*’s intro  
+- **Chorus Explosion:** Wall-of-sound guitars à la *Welcome to the Black Parade*  
+- **Bridge:** Haunting piano line nodding to *Black* by Pearl Jam  
+- **Outro:** Tape loops of street noise fading into radio static  
+
+::: callout-important
+# Production Paradox  
+The song *requires* imperfect recording - analog hiss and vocal cracks to mirror its "smug arrogance crumbling to ash" narrative.
+:::
+``` 
+
+This maintains your template while adapting to the song’s alt-rock/pessimistic romanticism fusion. The "Rock Analysis" column and "Sonic Palette" section explicitly tie it to canonical alternative tracks.
