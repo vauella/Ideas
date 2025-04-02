@@ -1,3 +1,8 @@
+# Profiles
+We need to collect all the Vanuella profiles so that we optimize them under one brand.
+- https://www.tiktok.com/@vanuellawatt/video/7353616263223987474
+
+
 # No One
 
 A musical reflection on loss, absence, and the enduring power of love.
