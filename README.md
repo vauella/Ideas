@@ -20,7 +20,7 @@ We need to collect all the Vanuella profiles so that we optimize them under one 
 - https://www.youtube.com/watch?v=EzZJMU_hWUo
 - https://www.youtube.com/watch?v=su7JjPXIzJI
 - https://www.youtube.com/channel/UCVwvJfgpjvVWUN9XvPQvpbw
-- https://www.youtube.com/watch?v=TEQEUZdvp7E 2012 waw
+- https://www.youtube.com/watch?v=TEQEUZdvp7E 2012 waw 4,414 views  Sep 5, 2012 "SOLEIL SOLEIL" VANUELLA WATT 2000 NEW CALEDONIA Présentatrice Janice LES OMBRES ECHAPPEES
 
 
 # No One
