@@ -15,6 +15,10 @@ We need to collect all the Vanuella profiles so that we optimize them under one 
 - https://www.youtube.com/watch?v=OQ_Mr_3mIsc Vanuella Watt - Diva du Pacifique - Medley - Covers - Live Méridien
 - https://la1ere.francetvinfo.fr/nouvellecaledonie/video-ensemble-a-la-maison-avec-vanuella-watt-818802.html
 - https://www.youtube.com/watch?v=Ut8HXyq_tF8
+- https://www.youtube.com/watch?v=KoczUddop-c
+- https://www.youtube.com/watch?v=BHf3DjuCtpE
+- https://www.youtube.com/watch?v=EzZJMU_hWUo
+- https://www.youtube.com/watch?v=su7JjPXIzJI
 
 
 # No One
