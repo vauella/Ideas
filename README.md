@@ -11,6 +11,7 @@ We need to collect all the Vanuella profiles so that we optimize them under one 
 - https://www.youtube.com/watch?v=Zz9d4nJvYls
 - https://www.youtube.com/watch?v=ddlhkZ8mUSI  543 views  May 1, 2014 "L'Hymne à L'Amour" par Vanuella Watt
 - https://www.youtube.com/watch?v=OQ_Mr_3mIsc Vanuella Watt - Diva du Pacifique - Medley - Covers - Live Méridien
+- https://la1ere.francetvinfo.fr/nouvellecaledonie/video-ensemble-a-la-maison-avec-vanuella-watt-818802.html
 
 # No One
 
