@@ -7,6 +7,7 @@ We need to collect all the Vanuella profiles so that we optimize them under one 
 - https://www.french.org.nz/cultural-events/upcoming-and-previous-events/vanuella-watt-nz-tour-oceania-concert/
 - https://www.theboathousenelson.co.nz/vanuella-watt-oceania-celebration-concert-tour-2018/
 - https://www.france.tv/la1ere/nouvelle-caledonie/plein-cadre/5789475-emission-du-jeudi-14-mars-2024.html
+- https://www.alliancefr.vu/fr/agenda-culturel/1567-vendredi-13-juillet-concert-bal-de-vanuella-watt
 # Youtube
 - https://www.youtube.com/watch?v=Zz9d4nJvYls
 - https://www.youtube.com/watch?v=ddlhkZ8mUSI  543 views  May 1, 2014 "L'Hymne à L'Amour" par Vanuella Watt
