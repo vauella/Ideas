@@ -8,12 +8,14 @@ We need to collect all the Vanuella profiles so that we optimize them under one 
 - https://www.theboathousenelson.co.nz/vanuella-watt-oceania-celebration-concert-tour-2018/
 - https://www.france.tv/la1ere/nouvelle-caledonie/plein-cadre/5789475-emission-du-jeudi-14-mars-2024.html
 - https://www.alliancefr.vu/fr/agenda-culturel/1567-vendredi-13-juillet-concert-bal-de-vanuella-watt
+- https://archives.caledosphere.com/2012/05/09/les-recettes-de-lamour-fou-vanuella-watt/
 # Youtube
 - https://www.youtube.com/watch?v=Zz9d4nJvYls
 - https://www.youtube.com/watch?v=ddlhkZ8mUSI  543 views  May 1, 2014 "L'Hymne à L'Amour" par Vanuella Watt
 - https://www.youtube.com/watch?v=OQ_Mr_3mIsc Vanuella Watt - Diva du Pacifique - Medley - Covers - Live Méridien
 - https://la1ere.francetvinfo.fr/nouvellecaledonie/video-ensemble-a-la-maison-avec-vanuella-watt-818802.html
 - https://www.youtube.com/watch?v=Ut8HXyq_tF8
+
 
 # No One
 
