@@ -19,6 +19,7 @@ We need to collect all the Vanuella profiles so that we optimize them under one 
 - https://www.youtube.com/watch?v=BHf3DjuCtpE
 - https://www.youtube.com/watch?v=EzZJMU_hWUo
 - https://www.youtube.com/watch?v=su7JjPXIzJI
+- https://www.youtube.com/channel/UCVwvJfgpjvVWUN9XvPQvpbw
 
 
 # No One
