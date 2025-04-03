@@ -1,3 +1,29 @@
+# Profiles
+We need to collect all the Vanuella profiles so that we optimize them under one brand.
+- https://www.tiktok.com/@vanuellawatt/video/7353616263223987474
+- https://www.alliancefr.vu/en/musique/1651-vanuella-watt-2
+# Events
+- https://africultures.com/evenements/?no=32327
+- https://www.french.org.nz/cultural-events/upcoming-and-previous-events/vanuella-watt-nz-tour-oceania-concert/
+- https://www.theboathousenelson.co.nz/vanuella-watt-oceania-celebration-concert-tour-2018/
+- https://www.france.tv/la1ere/nouvelle-caledonie/plein-cadre/5789475-emission-du-jeudi-14-mars-2024.html
+- https://www.alliancefr.vu/fr/agenda-culturel/1567-vendredi-13-juillet-concert-bal-de-vanuella-watt
+- https://archives.caledosphere.com/2012/05/09/les-recettes-de-lamour-fou-vanuella-watt/
+# Youtube
+- https://www.youtube.com/watch?v=Zz9d4nJvYls
+- https://www.youtube.com/watch?v=ddlhkZ8mUSI  543 views  May 1, 2014 "L'Hymne à L'Amour" par Vanuella Watt
+- https://www.youtube.com/watch?v=OQ_Mr_3mIsc Vanuella Watt - Diva du Pacifique - Medley - Covers - Live Méridien
+- https://la1ere.francetvinfo.fr/nouvellecaledonie/video-ensemble-a-la-maison-avec-vanuella-watt-818802.html
+- https://www.youtube.com/watch?v=Ut8HXyq_tF8
+- https://www.youtube.com/watch?v=KoczUddop-c
+- https://www.youtube.com/watch?v=BHf3DjuCtpE
+- https://www.youtube.com/watch?v=EzZJMU_hWUo
+- https://www.youtube.com/watch?v=su7JjPXIzJI
+- https://www.youtube.com/channel/UCVwvJfgpjvVWUN9XvPQvpbw
+- https://www.youtube.com/watch?v=TEQEUZdvp7E 2012 waw 4,414 views  Sep 5, 2012 "SOLEIL SOLEIL" VANUELLA WATT 2000 NEW CALEDONIA Présentatrice Janice LES OMBRES ECHAPPEES
+- https://www.youtube.com/watch?v=KoczUddop-c
+
+
 # No One
 
 A musical reflection on loss, absence, and the enduring power of love.
